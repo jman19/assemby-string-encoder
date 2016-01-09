@@ -1,4 +1,4 @@
-# Assemby-string-encoder
+# Assemby-String-Encoder
 
   Presents the user with 3 options: encode, decode and quit, if the user enters 1 then the program will display a messsage 
 prompting them to enter thier string and a value around 0-10. 
